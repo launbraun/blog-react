@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/blog-react/static/css/main.8841f218.chunk.css",
-    "main.js": "/blog-react/static/js/main.5fd79b72.chunk.js",
-    "main.js.map": "/blog-react/static/js/main.5fd79b72.chunk.js.map",
+    "main.js": "/blog-react/static/js/main.a4a51145.chunk.js",
+    "main.js.map": "/blog-react/static/js/main.a4a51145.chunk.js.map",
     "runtime-main.js": "/blog-react/static/js/runtime-main.b9d17cac.js",
     "runtime-main.js.map": "/blog-react/static/js/runtime-main.b9d17cac.js.map",
     "static/js/2.0321bd5b.chunk.js": "/blog-react/static/js/2.0321bd5b.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/close.82b3629d.svg": "/blog-react/static/media/close.82b3629d.svg",
     "static/media/instagram.f02ad3f8.svg": "/blog-react/static/media/instagram.f02ad3f8.svg",
     "static/media/App.scss": "/blog-react/static/media/photo-btn.60c85ddb.svg",
-    "static/media/photo.2cc5804c.jpg": "/blog-react/static/media/photo.2cc5804c.jpg",
+    "static/media/photo.1104aa9d.jpg": "/blog-react/static/media/photo.1104aa9d.jpg",
     "static/media/pinterest.1afbdd4c.svg": "/blog-react/static/media/pinterest.1afbdd4c.svg",
     "static/media/preview.564d09a1.jpg": "/blog-react/static/media/preview.564d09a1.jpg",
     "static/media/preview2.2ca6e7a6.jpg": "/blog-react/static/media/preview2.2ca6e7a6.jpg",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.b9d17cac.js",
     "static/js/2.0321bd5b.chunk.js",
     "static/css/main.8841f218.chunk.css",
-    "static/js/main.5fd79b72.chunk.js"
+    "static/js/main.a4a51145.chunk.js"
   ]
 }
