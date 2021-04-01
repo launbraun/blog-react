@@ -1,0 +1,46 @@
+@import "./assets/scss/reset";
+@import "./assets/scss/vars";
+@import "./assets/scss/mixins";
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #181818;
+
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 1.4rem;
+  color: white;
+  line-height: 1.5;
+
+  &.no-scroll,
+  &.show-sidebar {
+    overflow: hidden;
+  }
+
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+
+/* Blocks  */
+@import "./assets/scss/blocks/page";
+@import "./assets/scss/blocks/burger";
+@import "./assets/scss/blocks/main";
+@import "./assets/scss/blocks/header";
+@import "./assets/scss/blocks/sidebar";
+@import "./assets/scss/blocks/Main";
+@import "./assets/scss/blocks/btn";
+@import "./assets/scss/blocks/stories";
+@import "./assets/scss/blocks/add-post";
+@import "./assets/scss/blocks/posts";
+@import "./assets/scss/blocks/pagination";
+@import "./assets/scss/blocks/work";
+@import "./assets/scss/blocks/cabinet";
+@import "./assets/scss/blocks/form";
+@import "./assets/scss/blocks/modal";
